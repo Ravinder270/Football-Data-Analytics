@@ -6,10 +6,7 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 
 1. [System Architecture](#system-architecture)
 2. [Requirements](#requirements)
-3. [Getting Started](#getting-started)
-4. [Running the Code With Docker](#running-the-code-with-docker)
 5. [How It Works](#how-it-works)
-6. [Video](#video)
 
 ## System Architecture
 ![system_architecture.png](assets%2Fsystem_architecture.png)
