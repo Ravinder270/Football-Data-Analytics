@@ -1,4 +1,4 @@
-# Football Data Engineering
+# Football Data Analytics
 
 This Python-based project crawls data from Wikipedia using Apache Airflow, cleans it and pushes it Azure Data Lake for processing.
 
